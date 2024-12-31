@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(75, 75, 75);
+}
+
+hr {
+    width: 85%;
+    margin: auto;
+}
+
+.first-div {
+    text-align: center;
+    margin: 30px 70px;
+}
+
+.div-container {
+    width: 80%;
+    margin: auto;
+}
+
+.div {
+    width: 20%;
+    height: 150px;
+    background-color: rgb(75, 75, 75);
+    display: inline-block;
+    margin: 25px;
+    color: rgb(231, 231, 231);;
+    text-align: center;
+    line-height: 150px;
+}
+
+.view {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.view a {
+    float: right;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: rgb(234, 152, 0);
+}
+
+.div-container2 {
+    width: 80%;
+    margin: 40px auto;
+}
+
+.div2 {
+    display: inline-block;
+    width: 20%;
+    height: 150px;
+    margin: 15px;
+    border-width: 1px;
+    border-color: rgb(75, 75, 75);
+    border-style: ridge;
+    padding: 10px;
+}
+
+.inside-div {
+    background-color: rgb(75, 75, 75);
+    color: rgb(231, 231, 231);;
+    width: 35px;
+    height: 35px;
+    font-size: 13px;
+    text-align: center;
+    display: inline-block;
+}
+
+.lorem-div {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+
+.read a {
+    line-height: 40px;
+    float: right;
+    text-decoration: none;
+    color: rgb(234, 152, 0);
+}
+
+.last-div {
+    background-color: rgb(75, 75, 75);
+    width: 100%;
+    height: 100px;
+    line-height: 90px;
+}
+
+.last-div div {
+    color: rgb(231, 231, 231);
+}
+
+.last-left {
+    float: left;
+    padding-left: 120px;
+    
+}
+
+.last-right {
+    float: right;
+    padding-right: 120px;
+}
+
+
